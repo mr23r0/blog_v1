@@ -1,6 +1,7 @@
 ## Blog_v1
 
 Blog_v1 is Personal Journal Blog, to Make notes and read whenever required.
+### Made in LARAVEL
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
@@ -44,6 +45,6 @@ Thank you for considering contributing to the Blog!
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The blog_v1 is open-sourced WebApp.
 "# blog_v1" 
 "# blog_v1" 
